@@ -36,7 +36,7 @@
         <property name="driverClass" value="com.mysql.jdbc.Driver"/>
         <property name="jdbcUrl" value="jdbc:mysql://120.78.93.38:3306/demo?characterEncoding=utf8"/>
         <property name="user" value="demo"/>
-        <property name="password" value="test"/>
+        <property name="password" value="root123"/>
     </bean>
 
     <!-- 把交给IOC管理 SqlSessionFactory -->

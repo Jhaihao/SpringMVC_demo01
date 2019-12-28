@@ -1,4 +1,4 @@
-/.idea/
+
 *.idea
 *.iml
 /heima_ssm_dao/target/
@@ -6,9 +6,9 @@
 /heima_ssm_service/target/
 /heima_ssm_utils/target/
 /heima_ssm_web/target/
-target/
 
+*.class
 
-# Intellij
 .idea/
 *.iws
+

@@ -38,6 +38,10 @@
                                 <a href="#" class="btn btn-default btn-flat">修改密码</a>
                             </div>
                             <div class="pull-right">
+                                <%--
+                                注销在 spring-security.xml
+                                配置    <security:logout invalidate-session="true" logout-url="/logout.do" logout-success-url="/login.jsp"/>
+                                --%>
                                 <a href="${pageContext.request.contextPath}/logout.do"
                                    class="btn btn-default btn-flat">注销</a>
                             </div>

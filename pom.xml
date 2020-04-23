@@ -19,6 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+ <!-- spring -->
     <dependencies>        <!-- spring -->
         <dependency>
             <groupId>org.aspectj</groupId>
